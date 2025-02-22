@@ -1,4 +1,4 @@
-# Priority-Matrix-for-Lead-Molecule-Selection
+# Priority Matrix for Lead Molecule Selection
 Lead Molecule Selection: Priority Score Visualization
 
 
