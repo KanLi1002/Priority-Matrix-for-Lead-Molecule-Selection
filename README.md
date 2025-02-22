@@ -93,7 +93,7 @@ Scikit-learn
 
 
 ## Usage
-
+open in google colab, or
 Run the script:
 
 python lead_molecule_selection.py
