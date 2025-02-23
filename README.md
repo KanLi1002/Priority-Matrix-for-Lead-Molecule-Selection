@@ -2,7 +2,7 @@
 Lead Molecule Selection: Priority Score Visualization
 
 
-This little program provides a 3D visualization of lead molecule selection based on key pharmacokinetic and pharmacodynamic properties. It uses a priority score model to rank molecules based on their potency, cytotoxicity, and microsomal stability. The results are displayed in a 3D scatter plot, where colors represent the normalized priority scores.
+This little program provides a 3D visualization of lead molecule selection based on potency (EC50/IC50), cytotoxicity (CC50), and microsomal stability (T1/2). It uses a priority score model to rank molecules based on their potency, cytotoxicity, and microsomal stability. The results are displayed in a 3D scatter plot, where colors represent the normalized priority scores.
 
 ## Mathematical Framework
 
